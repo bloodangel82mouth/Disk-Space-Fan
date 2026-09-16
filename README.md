@@ -224,4 +224,4 @@ Disk Space Fan is available as a **full free version** with all features and upd
 Experience the ease of managing your hard drive with Disk Space Fan! **Download now and start optimizing your disk space today!**
 
 ---
-**Last updated:** 2026-09-15 22:33:35 UTC
+**Last updated:** 2026-09-16 00:54:12 UTC
